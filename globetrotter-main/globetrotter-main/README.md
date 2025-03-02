@@ -196,8 +196,7 @@ Base Url: `http://localhost:3000/api/v1`
 
 ## Author
 
-Piyush Patel ( mail: piyushpatel1746@gmail.com )
-
+(tnvijayaganesh@gmail.com) - Vijayaganesh TN
 
 
 Note: To get my dataset of 100+ destinations you can hit the api call on
